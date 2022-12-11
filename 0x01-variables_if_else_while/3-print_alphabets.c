@@ -2,7 +2,7 @@
 /**
  * main - lowercase and uppercase
  *
- * Return: Always (Success)
+ *  Return: Always (Success)
  */
 int main(void)
 {
@@ -18,7 +18,5 @@ int main(void)
 		putchar(c);
 	}
 	putchar('\n');
-}
-putchar('\n');
-return (0);
+	return (0);
 }
